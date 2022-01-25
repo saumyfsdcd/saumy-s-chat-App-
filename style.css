@@ -1,0 +1,63 @@
+h1{
+    font-family: "Mochiy Pop P One";
+    text-align: center;
+}
+
+body{
+    background-color: rgb(94, 173, 237);
+}
+.message{
+
+    background-color: grey;
+    width: 24%;
+    padding: 10px;
+    margin: 17px 2px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.left{
+    float: left;
+    clear: both;
+}
+
+.right{
+    float: right;
+    clear: both;
+}
+
+.container{
+    max-width: 955px;
+    border: 2px solid black;
+    margin: auto;
+    height: 60vh;
+    overflow-y: auto;
+    margin-bottom: 22px;
+}
+
+#messageinp{
+    width: 92%;
+    border: 2px solid black;
+    border-radius: 6px;
+    height: 34px;
+
+
+}
+
+.btn{
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 6px;
+    height: 34px;
+}
+
+#send-cont{
+    display: block;
+    margin: auto;
+    max-width: 985px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
